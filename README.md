@@ -1,3 +1,3 @@
 ## Desafio - controle de fluxo
 
-Projeto realizaido duranto o bootcamp santander em parceria com a DIO
+Projeto realizado durante o bootcamp santander em parceria com a DIO
